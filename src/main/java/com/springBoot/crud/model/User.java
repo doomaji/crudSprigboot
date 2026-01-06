@@ -1,4 +1,4 @@
-package web.model;
+package com.springBoot.crud.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

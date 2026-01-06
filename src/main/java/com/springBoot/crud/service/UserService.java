@@ -1,6 +1,6 @@
-package web.service;
+package com.springBoot.crud.service;
 
-import web.model.User;
+import com.springBoot.crud.model.User;
 
 import java.util.List;
 
