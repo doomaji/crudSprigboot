@@ -3,5 +3,5 @@ package com.springBoot.crud.jpa;
 import com.springBoot.crud.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface UserRepository extends JpaRepository<User, Long>, UserRepositoryCustom {
+public interface UserRepository extends JpaRepository<User, Long> {
 }
